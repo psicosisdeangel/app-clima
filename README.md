@@ -4,7 +4,7 @@ Aplicación web desarrollada como **parcial académico** que consume una API del
 
 ## Vista previa
 
-![Vista previa de la aplicación](preview.png)
+![Vista previa de la aplicación](./assets/preview.png)
 
 ## Objetivo del parcial
 
